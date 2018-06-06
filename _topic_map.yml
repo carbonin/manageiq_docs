@@ -445,3 +445,12 @@ Topics:
     Topics:
     - Name: Index
       File: index
+---
+Name: High Availability Guide
+Dir: doc-High_Availability_Guide
+Topics:
+  - Name: Table of Contents
+    Dir: miq
+    Topics:
+    - Name: Index
+      File: index
